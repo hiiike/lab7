@@ -1,0 +1,4 @@
+﻿  Source.cpp
+F:\labs\lab7.2_rec\lab7.2_rec\Source.cpp(72): warning C4715: 'rowMin': not all control paths return a value
+F:\labs\lab7.2_rec\lab7.2_rec\Source.cpp(89): warning C4715: 'arrSearchRow': not all control paths return a value
+  lab7.2_rec.vcxproj -> F:\labs\lab7.2_rec\Debug\lab7.2_rec.exe

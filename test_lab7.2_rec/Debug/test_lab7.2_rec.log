@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  test_lab7.2_rec.cpp
+F:\labs\lab7.2_rec\lab7.2_rec\Source.cpp(72): warning C4715: 'rowMin': not all control paths return a value
+F:\labs\lab7.2_rec\lab7.2_rec\Source.cpp(89): warning C4715: 'arrSearchRow': not all control paths return a value
+     Creating library F:\labs\lab7.2_rec\Debug\test_lab7.2_rec.lib and object F:\labs\lab7.2_rec\Debug\test_lab7.2_rec.exp
+  test_lab7.2_rec.vcxproj -> F:\labs\lab7.2_rec\Debug\test_lab7.2_rec.dll
